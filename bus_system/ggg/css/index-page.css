@@ -1,0 +1,25 @@
+#page-1 {
+    width: 80%;
+    margin-top: 2.5vh;
+    margin-left: 7.5%;
+    padding: 2.5vh 2.5%;
+    height: 75vh;
+    overflow: auto;
+    border: 3px solid #009688;
+    font-size: 20px;
+    display: none;
+    border-radius: 2.5vh;
+}
+
+#page-2 {
+    width: 80%;
+    margin-top: 2.5vh;
+    margin-left: 7.5%;
+    padding: 2.5vh 2.5%;
+    height: 75vh;
+    overflow: auto;
+    border: 3px solid #009688;
+    font-size: 20px;
+    /* display: none; */
+    border-radius: 2.5vh;
+}
