@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(../../common/styles/common.css);
+
+/* layer1 */
+#layer1 {
+  background-image: url(../../common/images/fashion_information/layer1-1.jpg);
+  background-size: cover;
+}

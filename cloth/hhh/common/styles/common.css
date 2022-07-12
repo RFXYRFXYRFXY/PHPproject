@@ -1,0 +1,68 @@
+/* body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+} */
+
+:root {
+  --color-pink-100: #F7D6E6;
+  --color-pink-200: #EFADCE;
+  --color-pink-300: #E685B5;
+  --color-pink-400: #D63384;
+  --color-pink-500: #AB296A;
+  --color-pink-600: #801F4F;
+  --color-pink-700: #561435;
+  --color-pink-800: #2B0A1A;
+  --color-pink-900: #2B0A1A;
+}
+
+html {
+  min-width: 360px;
+}
+
+.bg-pink-100 {
+  background-color: var(--color-pink-100)
+}
+
+.bg-pink-600 {
+  background-color: var(--color-pink-600);
+}
+
+.bg-pink-500 {
+  background-color: var(--color-pink-500);
+}
+
+.content {
+  max-width: 2000px;
+}
+
+/* 导航栏 */
+.navbar {
+  transition: padding 0.3s;
+}
+
+
+
